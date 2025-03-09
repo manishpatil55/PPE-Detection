@@ -1,7 +1,7 @@
 # PPE Detection & Alert System
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)](https://streamlit.io)
-[![YOLOv11](https://img.shields.io/badge/YOLOv8-00FF00?style=flat)](https://ultralytics.com)
+[![YOLOv11](https://img.shields.io/badge/YOLOv11-00FF00?style=flat)](https://ultralytics.com)
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat)](https://twilio.com)
 
 Real-time personal protective equipment detection with instant safety alerts.
