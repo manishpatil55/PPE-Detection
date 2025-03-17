@@ -18,8 +18,8 @@ Real-time personal protective equipment detection with instant safety alerts.
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/manishpatil55/ppe-detection-system.git
-cd ppe-detection-system
+git clone https://github.com/manishpatil55/ppe-detection.git
+cd ppe-detection
 ```
 
 2. **Install Dependencies**
