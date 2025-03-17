@@ -18,7 +18,7 @@ Real-time personal protective equipment detection with instant safety alerts.
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/ppe-detection-system.git
+git clone https://github.com/manishpatil55/ppe-detection-system.git
 cd ppe-detection-system
 ```
 
@@ -52,7 +52,7 @@ construction_site:
 chemical_lab:
   required_ppe: ["Gloves", "Mask", "Glasses"]
   contacts: 
-    sms: "+0987654321"
+    sms: "+1234567890"
 ```
 
 ## How It Works
