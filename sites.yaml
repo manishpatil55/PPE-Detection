@@ -4,13 +4,11 @@ regular_site:
 construction_site:
   required_ppe: ["Helmet", "Vest"]
   admin_contacts: 
-    sms: "+919322968265"
-    email: "manishkakulde55@gmmail.com"
-    whatsapp: "+919322968265"
+    sms: "+1234567890"              # add admin contact details
+    email: "site.admin@email.com"
 
 chemical_lab:
   required_ppe: ["Gloves", "Mask", "Glasses"]
   admin_contacts:
-    sms: "+919322968265"
-    email: "manishkakulde55@gmail.com"
-    whatsapp: "+919322968265"
+    sms: "+1234567890"
+    email: "site.admin@email.com"
