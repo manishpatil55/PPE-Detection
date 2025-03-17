@@ -1,0 +1,16 @@
+regular_site:
+  required_ppe: ["All Items"]  # Special case for regular monitoring , only for viewing
+
+construction_site:
+  required_ppe: ["Helmet", "Vest"]
+  admin_contacts: 
+    sms: "+919322968265"
+    email: "manishkakulde55@gmmail.com"
+    whatsapp: "+919322968265"
+
+chemical_lab:
+  required_ppe: ["Gloves", "Mask", "Glasses"]
+  admin_contacts:
+    sms: "+919322968265"
+    email: "manishkakulde55@gmail.com"
+    whatsapp: "+919322968265"

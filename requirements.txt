@@ -1,0 +1,7 @@
+ultralytics
+streamlit
+opencv-python
+pyyaml
+twilio
+python-dotenv
+pyobjc
